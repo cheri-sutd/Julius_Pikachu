@@ -1,0 +1,19 @@
+{
+  "overall_score": 90.0,
+  "completeness_score": 80.0,
+  "accuracy_score": 100,
+  "found_fields": [
+    "name",
+    "date_of_birth",
+    "address",
+    "nationality"
+  ],
+  "missing_fields": [
+    "id_number"
+  ],
+  "inconsistencies": [],
+  "recommendations": [],
+  "document_type": "KYC",
+  "analysis": "{\n  \"Completeness Score\": 100,\n  \"Accuracy Score\": 100,\n  \"Found Fields\": [\"name\", \"date_of_birth\", \"address\", \"id_number\", \"nationality\"],\n  \"Missing Fields\": [],\n  \"Inconsistencies\": [],\n  \"Recommendations\": [],\n  \"Analysis\": {\n    \"Completeness\": \"All required fields are present in the document.\",\n    \"Accuracy\": \"The values provided in the document are reasonable and consistent.\",\n    \"Internal Consistency\": \"Different parts of the document align with each other.\",\n    \"External Validity\": \"Dates, numbers, and facts in the document are logically sound.\",\n    \"Missing Information\": \"No critical information is missing from the document.\"\n  }\n}",
+  "timestamp": "2025-11-01T13:18:50.124919"
+}

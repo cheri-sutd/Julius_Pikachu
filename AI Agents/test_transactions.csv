@@ -1,0 +1,7 @@
+amount,entity_id,date,transaction_type
+10000,C001,2024-01-15,transfer
+15000,C001,2024-01-16,transfer
+20000,C002,2024-01-17,transfer
+9500,C001,2024-01-18,transfer
+50000,C003,2024-01-19,transfer
+12000,C001,2024-01-20,transfer

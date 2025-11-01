@@ -1,0 +1,34 @@
+{
+  "spelling_errors": [],
+  "llm_errors": [
+    {
+      "word": "submmit",
+      "suggestion": "submit",
+      "context": "I am writing to submmit an application for account opening."
+    },
+    {
+      "word": "doccuments",
+      "suggestion": "documents",
+      "context": "Please find attached the required doccuments including my identy proof"
+    },
+    {
+      "word": "identy",
+      "suggestion": "identity",
+      "context": "Please find attached the required doccuments including my identy proof"
+    },
+    {
+      "word": "favurable",
+      "suggestion": "favourable",
+      "context": "I look forward to your favurable response."
+    }
+  ],
+  "grammar_errors": [],
+  "quality_score": 80,
+  "suggestions": {},
+  "recommendations": [
+    "Correct the spelling errors to improve the professionalism of the letter.",
+    "Consider adding more details about the type of account you wish to open."
+  ],
+  "raw_analysis": "{\n  \"spelling_errors\": [\n    {\n      \"word\": \"submmit\",\n      \"suggestion\": \"submit\",\n      \"context\": \"I am writing to submmit an application for account opening.\"\n    },\n    {\n      \"word\": \"doccuments\",\n      \"suggestion\": \"documents\",\n      \"context\": \"Please find attached the required doccuments including my identy proof\"\n    },\n    {\n      \"word\": \"identy\",\n      \"suggestion\": \"identity\",\n      \"context\": \"Please find attached the required doccuments including my identy proof\"\n    },\n    {\n      \"word\": \"favurable\",\n      \"suggestion\": \"favourable\",\n      \"context\": \"I look forward to your favurable response.\"\n    }\n  ],\n  \"grammar_errors\": [],\n  \"professional_language_issues\": [],\n  \"quality_score\": 80,\n  \"recommendations\": [\n    \"Correct the spelling errors to improve the professionalism of the letter.\",\n    \"Consider adding more details about the type of account you wish to open.\"\n  ]\n}",
+  "timestamp": "2025-11-01T13:18:45.411396"
+}
