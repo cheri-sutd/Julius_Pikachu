@@ -24,6 +24,7 @@ const routeMap: Record<Role, SidepanelItem[]> = {
   ops: [
     { key: 'dashboard', label: 'Dashboard' },
     { key: 'settings', label: 'Settings' },
+    { key: 'alerts', label: 'Alerts' },
   ],
   legal: [
     { key: 'dashboard', label: 'Dashboard' },
@@ -32,10 +33,13 @@ const routeMap: Record<Role, SidepanelItem[]> = {
   front: [
     { key: 'dashboard', label: 'Dashboard' },
     { key: 'settings', label: 'Settings' },
+    { key: 'alerts', label: 'Alerts' },
   ],
   comp: [
     { key: 'dashboard', label: 'Dashboard' },
     { key: 'settings', label: 'Settings' },
+    { key: 'documentvalidator', label: 'Document Validator' },
+    { key: 'alerts', label: 'Alerts' },
   ],
 }
 const getRoutes = (role: Role): SidepanelItem[] => routeMap[role] ?? [];
