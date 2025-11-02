@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Julius_Pikachu",
+    "slug": "Julius_Pikachu",
+    "version": "1.0.0",
+    "userInterfaceStyle": "automatic",
+    "web": {
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}

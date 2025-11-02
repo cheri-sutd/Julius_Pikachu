@@ -1,0 +1,12 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "python.pythonPath": "C:\\Users\\cheri\\AppData\\Local\\Programs\\Python\\Python310\\",
+  "python.pipenvPath": "pipenv",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.terminal.useEnvFile": true,
+  "python.terminal.executeInFileDir": true
+}
